@@ -63,6 +63,9 @@ body::before {
   より見やすくご覧頂けます。
 </p>
 	
+<p align="left"> <img src="qr.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+	
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2022年4月28日(木)連休前最終日は仕事も早々に切り上げて羽黒山へ !!!</marquee></span></h1>
 <a href="20220428_000.png" data-lightbox="abc"><img src="20220428_000.png" alt="サンプル画像" width="900" /></a>
 	
