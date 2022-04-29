@@ -66,11 +66,14 @@ body::before {
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2022年4月28日(木)連休前最終日は仕事も早々に切り上げて羽黒山へ !!!</marquee></span></h1>
 <a href="20220428_000.png" data-lightbox="abc"><img src="20220428_000.png" alt="サンプル画像" width="900" /></a>
 	
+<h3><span class="white">背景は展望台付近のツツジ。</span></h3>
+	
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h3><span class="white">展望台から見下ろす田園地帯は、ちょうど田植えの季節。</span></h3>
 <a href="20220428_001.JPG" data-lightbox="abc"><img src="20220428_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220428_017.JPG" data-lightbox="abc"><img src="20220428_017.JPG" alt="サンプル画像" width="900" /></a>
 	
-<h3><span class="white">展望台周辺はツツジが満開です。</span></h3>
+<h3><span class="white">満開のツツジは見事でした。</span></h3>
 <a href="20220428_002.JPG" data-lightbox="abc"><img src="20220428_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220428_003.JPG" data-lightbox="abc"><img src="20220428_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220428_004.JPG" data-lightbox="abc"><img src="20220428_004.JPG" alt="サンプル画像" width="900" /></a>
@@ -102,9 +105,9 @@ body::before {
 	
 <h3><span class="white">羽黒山田んぼリフレクションを撮っていたら、後ろから「こんにちは」と爽やかな挨拶。<br>帰宅途中の中学生が声をかけてくれました。<br>思わず後ろ姿をパチリ！</span></h3>	
 <a href="20220428_019.JPG" data-lightbox="abc"><img src="20220428_019.JPG" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">東北新幹線が通過しました。</span></h3>	
+	
 
-<h3><span class="white">東北新幹線の動画です。この辺りでは200km/hオーバーのはず。対地速度の速さでわかりますね。</span></h3>
+<h3><span class="white">上り、東北新幹線の動画です。この辺りでは200km/hオーバー。</span></h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DspXhw1r1-8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 	
