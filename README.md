@@ -104,8 +104,8 @@ body::before {
 <a href="20220428_019.JPG" data-lightbox="abc"><img src="20220428_019.JPG" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">東北新幹線が通過しました。</span></h3>	
 
-<h3><span class="white">東北新幹線の動画です。この辺りでは200km/hオーバーのはず。対地速度の速さでわかりますね。<br>バックの音声はハンディー機から流れる鈴木OMの声です。</span></h3>
-
+<h3><span class="white">東北新幹線の動画です。この辺りでは200km/hオーバーのはず。対地速度の速さでわかりますね。</span></h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DspXhw1r1-8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 	
 	
