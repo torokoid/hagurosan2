@@ -106,7 +106,7 @@ body::before {
 <a href="20220428_026.JPG" data-lightbox="abc"><img src="20220428_026.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220428_027.JPG" data-lightbox="abc"><img src="20220428_027.JPG" alt="サンプル画像" width="900" /></a>
 	
-<h3><span class="white">羽黒山田んぼリフレクションを撮っていたら、後ろから「こんにちは！」と爽やかな挨拶。<br>帰宅途中の中学生が声をかけてくれました。<br>思わず後ろ姿をパチリ！</span></h3>	
+<h3><span class="white">羽黒山田んぼリフレクションを撮っていたら、後ろから「こんにちは！」と爽やかな挨拶。<br>帰宅途中の女子中学生が声をかけてくれました。<br>思わず後ろ姿をパチリ！</span></h3>	
 <a href="20220428_019.JPG" data-lightbox="abc"><img src="20220428_019.JPG" alt="サンプル画像" width="900" /></a>
 	
 
