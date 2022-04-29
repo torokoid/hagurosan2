@@ -48,7 +48,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/hagurosan2/20220428_001.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/hagurosan2/20220428_012.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 </style>
@@ -63,10 +63,14 @@ body::before {
   より見やすくご覧頂けます。
 </p>
 	
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2021年11月13日(土)またまた、朝から羽黒山に登りました !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2022年4月28日(木)連休前最終日は仕事も早々に切り上げて羽黒山へ !!!</marquee></span></h1>
+<a href="20220428_000.png" data-lightbox="abc"><img src="20220428_000.png" alt="サンプル画像" width="900" /></a>
 	
-<h3><span class="white">前回11月6日にJJ1XKL:門さんよりリクエストの富士山映像を撮影すべく羽黒山に向かいます。</span></h3>	
+<h3><span class="white">展望台から見下ろす田園地帯は、ちょうど田植えの季節。</span></h3>
 <a href="20220428_001.JPG" data-lightbox="abc"><img src="20220428_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220428_017.JPG" data-lightbox="abc"><img src="20220428_017.JPG" alt="サンプル画像" width="900" /></a>
+	
+<h3><span class="white">展望台周辺はツツジが満開です。</span></h3>
 <a href="20220428_002.JPG" data-lightbox="abc"><img src="20220428_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220428_003.JPG" data-lightbox="abc"><img src="20220428_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220428_004.JPG" data-lightbox="abc"><img src="20220428_004.JPG" alt="サンプル画像" width="900" /></a>
@@ -81,10 +85,12 @@ body::before {
 <a href="20220428_013.JPG" data-lightbox="abc"><img src="20220428_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220428_014.JPG" data-lightbox="abc"><img src="20220428_014.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220428_015.JPG" data-lightbox="abc"><img src="20220428_015.JPG" alt="サンプル画像" width="900" /></a>
+	
+<h3><span class="white">こんなお花も咲いています。</span></h3>
 <a href="20220428_016.JPG" data-lightbox="abc"><img src="20220428_016.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20220428_017.JPG" data-lightbox="abc"><img src="20220428_017.JPG" alt="サンプル画像" width="900" /></a>
+	
+<h3><span class="white">山から降りて、この季節限定「田んぼリフレクション」など撮影。</span></h3>
 <a href="20220428_018.JPG" data-lightbox="abc"><img src="20220428_018.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20220428_019.JPG" data-lightbox="abc"><img src="20220428_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220428_020.JPG" data-lightbox="abc"><img src="20220428_020.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220428_021.JPG" data-lightbox="abc"><img src="20220428_021.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220428_022.JPG" data-lightbox="abc"><img src="20220428_022.JPG" alt="サンプル画像" width="900" /></a>
@@ -93,6 +99,9 @@ body::before {
 <a href="20220428_025.JPG" data-lightbox="abc"><img src="20220428_025.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220428_026.JPG" data-lightbox="abc"><img src="20220428_026.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220428_027.JPG" data-lightbox="abc"><img src="20220428_027.JPG" alt="サンプル画像" width="900" /></a>
+	
+<h3><span class="white">羽黒山田んぼリフレクションを撮っていたら、後ろから「こんにちは」と爽やかな挨拶。<br>帰宅途中の中学生が声をかけてくれました。<br>思わず後ろ姿をパチリ！</span></h3>	
+<a href="20220428_019.JPG" data-lightbox="abc"><img src="20220428_019.JPG" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">東北新幹線が通過しました。</span></h3>	
 
 <h3><span class="white">東北新幹線の動画です。この辺りでは200km/hオーバーのはず。対地速度の速さでわかりますね。<br>バックの音声はハンディー機から流れる鈴木OMの声です。</span></h3>
